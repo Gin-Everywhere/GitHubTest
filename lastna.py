@@ -1,4 +1,4 @@
-# Define the ASCII art for your name
+
 ascii_art = """
 
                                         _..._                                                                       .-'''-.                       
@@ -18,7 +18,6 @@ ascii_art = """
 """
 
 def main():
-    # Print the ASCII art to the console
     print(ascii_art)
 
 if __name__ == "__main__":
